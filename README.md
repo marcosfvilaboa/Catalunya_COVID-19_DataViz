@@ -24,6 +24,6 @@ Les dades utilitzades formen part del conjunt de dades obertes de la [Generlitat
   - [Incidència de la Covid-19 Catalunya.jpeg](./img/Incidencia_Covid-19_Cat.png)
 - [src](./src): fitxers per a la construcció de la visualització.
   - [transformation.ipynb](./src/transformation.ipynb): Jupyter notebook amb el codi per a la neteja i transformació de les dades.
-  - [mockup_covid-19_Catalunya.xd](./src/mockup_covid-19_Catalunya.xd): Visualització creada amb Adobe Xd. 
+  - [mockup_covid-19_Catalunya.xd](./src/mockup_covid-19_Catalunya.xd): Mockup creat amb Adobe Xd. 
 
 ----
