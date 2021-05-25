@@ -19,7 +19,7 @@ Les dades utilitzades formen part del conjunt de dades obertes de la [Generlitat
   - [Incid_ncia_de_la_COVID-19_a_Catalunya.csv](./data/Incid_ncia_de_la_COVID-19_a_Catalunya.csv): Dades originals.
   - [COVID-19_Catalunya_setmanal.csv](./data/COVID-19_Catalunya_setmanal.csv): Dades modificades.
 - [docs](./docs): document PDF amb l'informe. 
-  - [FernandezVilaboaMarcos_VD_PAC3.pdf](./docs/FernandezVilaboaMarcos_VD_PAC2.pdf)
+  - [FernandezVilaboaMarcos_VD_PAC3.pdf](./docs/FernandezVilaboaMarcos_VD_PAC3.pdf)
 - [img](./img): captures de la visualització
   - [Incidència de la Covid-19 Catalunya.jpeg](./img/Incidencia_Covid-19_Cat.png)
 - [src](./src): fitxers per a la construcció de la visualització.
