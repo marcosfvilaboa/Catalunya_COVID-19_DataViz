@@ -9,7 +9,7 @@ La visualització es pot consultar a [Flourish Studio - Public Website](https://
 El seu objectiu és representar de manera interactiva l'evolució de la COVID-19 a Catalunya en funció del temps. 
 
 
-[![Visualization](./img/Incidència de la Covid-19 Catalunya.jpeg)](https://public.flourish.studio/visualisation/6245825/)
+[![Visualization](./img/Incidencia_Covid-19_Cat.png)](https://public.flourish.studio/visualisation/6245825/)
 
 ## Dades
 
@@ -21,7 +21,7 @@ Les dades utilitzades formen part del conjunt de dades obertes de la [Generlitat
 - [docs](./docs): document PDF amb l'informe. 
   - [FernandezVilaboaMarcos_VD_PAC3.pdf](./docs/FernandezVilaboaMarcos_VD_PAC2.pdf)
 - [img](./img): captures de la visualització
-  - [Incidència de la Covid-19 Catalunya.jpeg](./img/Incidència de la Covid-19 Catalunya.jpeg)
+  - [Incidència de la Covid-19 Catalunya.jpeg](./img/Incidencia_Covid-19_Cat.png)
 - [src](./src): fitxers amb el codi per a la neteja i transformació de les dades.
   - [transformation.ipynb](./src/transformation.ipynb)
 
